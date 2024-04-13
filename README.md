@@ -20,5 +20,5 @@ O objetivo desse projeto era criar uma aplicação Mobile onde o usuário pode g
  
  <h4> HOME </h4>
  
-![HOME](C:\Users\carol\Downloads\WhatsApp Image 2024-04-13 at 11.11.37.jpeg)  
+![HOME](https://github.com/carolinebarbara/loja-otica/assets/106767653/ac69c2d2-3861-411a-94f8-0a76c2b6956e)
  
